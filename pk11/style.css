@@ -1,0 +1,36 @@
+.t1{
+    text-align: center;
+    color: rgb(15, 206, 34);
+}
+.t2{
+    text-align: center;
+}
+.t3{
+    color: #556987;
+    text-align: center;
+}
+a{
+    text-transform: none;
+    border-radius: 19;
+    text-align: center;
+}
+button{
+    border-radius: 19px;
+    color:  #DCFCE7 ;
+    border-color: rgba(105, 81, 255, 0.05);
+    text-align: center;
+}
+.link1{
+    text-decoration: none;
+    color:rgb(15, 206, 34) ;
+    text-align: center;
+    
+}
+.t4{
+    margin: auto;
+}
+.t5{
+    text-align: center;
+    
+}
+
